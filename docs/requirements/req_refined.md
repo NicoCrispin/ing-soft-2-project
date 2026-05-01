@@ -2,7 +2,7 @@ IA: Gemini
 
 
 
-Miembros: Nicolás Crispín, Martín Zehnder
+Miembros: Martín Zehnder, Nicolás Crispín Santucci
 
 
 
@@ -97,6 +97,4 @@ Buscador y Botón: Se menciona que el botón de alta aparece según si la cuenta
 
 
 ¿Existe un límite máximo de beneficiarios permitidos por cuenta?
-
-
 
